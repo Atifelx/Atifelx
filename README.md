@@ -82,6 +82,4 @@ I’m interested in **remote-forward roles** involving:
 
 📫 Reach me at **aatif2003@gmail.com**  
 🔗 LinkedIn: https://linkedin.com/in/atif-shaikh
-✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
